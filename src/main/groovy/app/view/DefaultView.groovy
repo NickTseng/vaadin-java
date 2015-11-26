@@ -31,7 +31,7 @@ public class DefaultView extends VerticalLayout implements View {
 
         queryBox.with {
             icon = FontAwesome.SEARCH
-            caption = '台中廠綜合查詢系統'
+            caption = '台中區綜合查詢系統'
             setWidth(30, PERCENTAGE)
             setHeightUndefined()
             immediate = true
