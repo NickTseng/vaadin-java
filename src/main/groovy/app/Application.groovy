@@ -1,12 +1,12 @@
-package com.nick
+package app
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-class VaadinJavaApplication {
+class Application {
 
     static void main(String[] args) {
-        SpringApplication.run VaadinJavaApplication, args
+        SpringApplication.run Application, args
     }
 }
