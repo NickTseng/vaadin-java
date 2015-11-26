@@ -11,4 +11,4 @@ Checking the starter out into directory ``app`` and get rid of the origin.
     cd app
     ./gradlew bootRun
 
-# check http://localhost:8080
+check http://localhost:8080
